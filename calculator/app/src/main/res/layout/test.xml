@@ -266,7 +266,7 @@
     <!-- Hàng nút thứ năm: - ; 0; .; = -->
 
     <Button
-        android:id="@+id/button_change"
+        android:id="@+id/button_sign"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintWidth_percent="@dimen/button_width_percent"
@@ -291,7 +291,7 @@
         app:cornerRadius="10dp"
         android:background="@drawable/number_buttons"
         app:layout_constraintTop_toBottomOf="@id/button_2"
-        app:layout_constraintLeft_toRightOf="@id/button_change"
+        app:layout_constraintLeft_toRightOf="@id/button_sign"
         app:layout_constraintRight_toLeftOf="@id/button_dot"
         android:layout_margin="4dp" />
 
