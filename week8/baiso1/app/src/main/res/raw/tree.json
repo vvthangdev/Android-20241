@@ -1,0 +1,34 @@
+{
+  "89": {
+    "name": "An Giang",
+    "slug": "an-giang",
+    "type": "tinh",
+    "name_with_type": "Tỉnh An Giang",
+    "code": "89",
+    "quan-huyen": {
+      "883": {
+        "name": "Long Xuyên",
+        "type": "thanh-pho",
+        "slug": "long-xuyen",
+        "name_with_type": "Thành phố Long Xuyên",
+        "path": "Long Xuyên, An Giang",
+        "xa-phuong": {
+          "30721": {
+            "name": "Mỹ Bình",
+            "type": "phuong",
+            "slug": "my-binh",
+            "name_with_type": "Phường Mỹ Bình",
+            "path": "Mỹ Bình, Long Xuyên, An Giang"
+          },
+          "30724": {
+            "name": "Mỹ Long",
+            "type": "phuong",
+            "slug": "my-long",
+            "name_with_type": "Phường Mỹ Long",
+            "path": "Mỹ Long, Long Xuyên, An Giang"
+          }
+        }
+      }
+    }
+  }
+}
