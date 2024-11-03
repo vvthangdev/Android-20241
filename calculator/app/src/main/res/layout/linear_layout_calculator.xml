@@ -16,7 +16,6 @@
         android:textSize="50sp"
         android:gravity="center"
         android:background="#ECECEC"
-        android:fontFamily="@font/digital7"
         />
 
     <TextView
@@ -29,7 +28,6 @@
         android:textSize="50sp"
         android:gravity="center"
         android:background="#ECECEC"
-        android:fontFamily="@font/digital7"
         />
 
     <LinearLayout

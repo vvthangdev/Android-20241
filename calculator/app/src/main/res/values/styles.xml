@@ -2,6 +2,6 @@
 <resources>
     <style name="VVTTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- Cài đặt font mặc định cho toàn ứng dụng -->
-        <item name="android:fontFamily">@font/digital7</item>
+<!--        <item name="android:fontFamily">@font/digital7</item>-->
     </style>
 </resources>
