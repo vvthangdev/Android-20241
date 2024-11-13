@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         findViewById<Button>(R.id.button_7).setOnClickListener(this)
         findViewById<Button>(R.id.button_8).setOnClickListener(this)
         findViewById<Button>(R.id.button_9).setOnClickListener(this)
-
     }
 
     override fun onClick(p0: View?) {

@@ -17,11 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a51112b-3a46-4216-9f7e-91957c6d1225" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../calculator/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../calculator/app/src/main/java/com/example/calculator/CalculatorActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../calculator/app/src/main/java/com/example/calculator/CurrencyActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../calculator/app/src/main/java/com/example/calculator/CurrencyConverter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../calculator/app/src/main/res/layout/activity_currency.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculator/app/src/main/java/com/example/calculator/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../calculator/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
