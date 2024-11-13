@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_height">150dp</dimen>
+    <dimen name="button_width_percent">0.2</dimen> <!-- Tỷ lệ chiều rộng -->
+    <dimen name="button_height_percent">0.15</dimen> <!-- Tỷ lệ chiều cao -->
+</resources>
