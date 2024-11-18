@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id generate_button
+id list_view
+id main
+id numberInput
+id radioEven
+id radioOdd
+id radioSquare
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Baiso2
+style Theme.Baiso2
+xml backup_rules
+xml data_extraction_rules

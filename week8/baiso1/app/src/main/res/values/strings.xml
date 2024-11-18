@@ -1,0 +1,9 @@
+
+
+    <resources>
+        <string name="app_name">baiso1</string>
+        <string name="province_prompt">Tỉnh/Thành Phố</string>
+        <string name="district_prompt">Quận/Huyện</string>
+        <string name="ward_prompt">Phường/Xã</string>
+        <!-- Các chuỗi khác nếu cần -->
+    </resources>
